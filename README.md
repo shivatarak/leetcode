@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/shivatarak/leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -19,5 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/shivatarak/leetcode/tree/master/0860-lemonade-change) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
