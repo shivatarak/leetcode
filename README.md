@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shivatarak/leetcode/tree/master/0189-rotate-array) |
 | [0682-baseball-game](https://github.com/shivatarak/leetcode/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/shivatarak/leetcode/tree/master/0860-lemonade-change) |
 ## Stack
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shivatarak/leetcode/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/shivatarak/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
