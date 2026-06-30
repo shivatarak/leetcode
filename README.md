@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivatarak/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/shivatarak/leetcode/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/shivatarak/leetcode/tree/master/0860-lemonade-change) |
+| [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shivatarak/leetcode/tree/master/0189-rotate-array) |
+| [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shivatarak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivatarak/leetcode/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,8 +64,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivatarak/leetcode/tree/master/0169-majority-element) |
+| [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivatarak/leetcode/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
