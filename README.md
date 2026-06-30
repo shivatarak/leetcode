@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivatarak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivatarak/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shivatarak/leetcode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/shivatarak/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shivatarak/leetcode/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/shivatarak/leetcode/tree/master/0682-baseball-game) |
 | [0860-lemonade-change](https://github.com/shivatarak/leetcode/tree/master/0860-lemonade-change) |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/shivatarak/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
