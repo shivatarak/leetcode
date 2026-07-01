@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shivatarak/leetcode/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/shivatarak/leetcode/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivatarak/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivatarak/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Stack
 |  |
@@ -108,9 +109,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivatarak/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivatarak/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivatarak/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivatarak/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/shivatarak/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
