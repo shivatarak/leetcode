@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivatarak/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shivatarak/leetcode/tree/master/0027-remove-element) |
+| [0047-permutations-ii](https://github.com/shivatarak/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/shivatarak/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivatarak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivatarak/leetcode/tree/master/0169-majority-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/shivatarak/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/shivatarak/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivatarak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivatarak/leetcode/tree/master/0169-majority-element) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivatarak/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/shivatarak/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
