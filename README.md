@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/shivatarak/leetcode/tree/master/0058-length-of-last-word) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivatarak/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [3838-weighted-word-mapping](https://github.com/shivatarak/leetcode/tree/master/3838-weighted-word-mapping) |
