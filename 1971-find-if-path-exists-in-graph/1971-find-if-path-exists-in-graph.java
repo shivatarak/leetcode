@@ -11,15 +11,20 @@ class Solution {
             adj.get(v).add(u);
         }
         boolean vis[]=new boolean[n];
-        dfs(n,adj,source,destination,vis);
-        return vis[destination];
+        return dfs(n,adj,source,destination,vis);
     }
-    public static void dfs(int n,ArrayList<ArrayList<Integer>>adj,int source,int destination,boolean vis[]){
+    public static boolean dfs(int n,ArrayList<ArrayList<Integer>>adj,int source,int destination,boolean vis[]){
+        if(source == destination){
+            return true;
+        }
         vis[source]=true;
         for(int i:adj.get(source)){
             if(!vis[i]){
-                dfs(n,adj,i,destination,vis);
+                if(dfs(n,adj,i,destination,vis)){
+                return true;
+                }
             }
         }
+        return false;
     }
 }
