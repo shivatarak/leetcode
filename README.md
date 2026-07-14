@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shivatarak/leetcode/tree/master/0058-length-of-last-word) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivatarak/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1496-path-crossing](https://github.com/shivatarak/leetcode/tree/master/1496-path-crossing) |
 | [3838-weighted-word-mapping](https://github.com/shivatarak/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shivatarak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shivatarak/leetcode/tree/master/0169-majority-element) |
+| [1496-path-crossing](https://github.com/shivatarak/leetcode/tree/master/1496-path-crossing) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivatarak/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Divide and Conquer
 |  |
