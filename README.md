@@ -119,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shivatarak/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivatarak/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivatarak/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shivatarak/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivatarak/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivatarak/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1971-find-if-path-exists-in-graph](https://github.com/shivatarak/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/shivatarak/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shivatarak/leetcode/tree/master/0047-permutations-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/shivatarak/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
