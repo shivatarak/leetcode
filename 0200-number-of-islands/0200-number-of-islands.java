@@ -14,9 +14,7 @@ class Solution {
         return count;
     }
     public void dfs(char[][] grid, int row, int col) {
-        if (row < 0 || row >= grid.length ||
-            col < 0 || col >= grid[0].length ||
-            grid[row][col] == '0') {
+        if (row < 0 || row >= grid.length || col < 0 || col >= grid[0].length || grid[row][col] == '0') {
             return;
         }
         grid[row][col] = '0';
