@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shivatarak/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shivatarak/leetcode/tree/master/0283-move-zeroes) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivatarak/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
 | [0682-baseball-game](https://github.com/shivatarak/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/shivatarak/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/shivatarak/leetcode/tree/master/0733-flood-fill) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/shivatarak/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/shivatarak/leetcode/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivatarak/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/shivatarak/leetcode/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivatarak/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shivatarak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/shivatarak/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivatarak/leetcode/tree/master/0733-flood-fill) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivatarak/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
