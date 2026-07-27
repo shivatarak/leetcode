@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/shivatarak/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivatarak/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shivatarak/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivatarak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivatarak/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/shivatarak/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Stack
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/shivatarak/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shivatarak/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivatarak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/shivatarak/leetcode/tree/master/0743-network-delay-time) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivatarak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
