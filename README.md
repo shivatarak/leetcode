@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/shivatarak/leetcode/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/shivatarak/leetcode/tree/master/0860-lemonade-change) |
 | [0909-snakes-and-ladders](https://github.com/shivatarak/leetcode/tree/master/0909-snakes-and-ladders) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivatarak/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivatarak/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivatarak/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shivatarak/leetcode/tree/master/0189-rotate-array) |
 | [0365-water-and-jug-problem](https://github.com/shivatarak/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivatarak/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivatarak/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shivatarak/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shivatarak/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shivatarak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shivatarak/leetcode/tree/master/0169-majority-element) |
 | [0763-partition-labels](https://github.com/shivatarak/leetcode/tree/master/0763-partition-labels) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivatarak/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1496-path-crossing](https://github.com/shivatarak/leetcode/tree/master/1496-path-crossing) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivatarak/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shivatarak/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivatarak/leetcode/tree/master/0169-majority-element) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivatarak/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shivatarak/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Geometry
 |  |
@@ -244,5 +248,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivatarak/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivatarak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
