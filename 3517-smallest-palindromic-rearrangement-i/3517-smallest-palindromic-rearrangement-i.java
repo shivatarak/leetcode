@@ -1,15 +1,26 @@
 class Solution {
     public String smallestPalindrome(String s) {
-        int n=s.length();
-        if(n<2){
-            return s;
+        int n = s.length();
+        HashMap<Character, Integer> map = new HashMap<>();
+        for (int i = 0; i < n; i++) {
+            char ch = s.charAt(i);
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
-        String h1=s.substring(0,n/2);
-        char[] ch=h1.toCharArray();
-        Arrays.sort(ch);
-        String st=new String(ch);
-        String middle = (n % 2 != 0) ? String.valueOf(s.charAt(n / 2)) : "";
-        String reversedHalf = new StringBuilder(st).reverse().toString();
-        return st + middle + reversedHalf;
+        StringBuilder left = new StringBuilder();
+        String middle = "";
+        for (char i = 'a'; i <='z'; i++) {
+            if (map.containsKey(i)) {
+                int freq = map.get(i);
+                for (int j = 0; j < freq / 2; j++) {
+                    left.append(i);
+                }
+                if (freq % 2 == 1) {
+                    middle = String.valueOf(i);
+                }
+            }
+        }
+        String last = new StringBuilder(left).reverse().toString();
+        return left.toString() + middle + last;
+
     }
 }
