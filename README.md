@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivatarak/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivatarak/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivatarak/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1584-min-cost-to-connect-all-points](https://github.com/shivatarak/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/shivatarak/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shivatarak/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivatarak/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivatarak/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -267,4 +269,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shivatarak/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivatarak/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
