@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shivatarak/leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/shivatarak/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/shivatarak/leetcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/shivatarak/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shivatarak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shivatarak/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shivatarak/leetcode/tree/master/0088-merge-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shivatarak/leetcode/tree/master/0053-maximum-subarray) |
 | [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivatarak/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shivatarak/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shivatarak/leetcode/tree/master/0169-majority-element) |
 | [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
