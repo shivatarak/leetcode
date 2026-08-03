@@ -275,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shivatarak/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivatarak/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shivatarak/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/shivatarak/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
