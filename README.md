@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shivatarak/leetcode/tree/master/0283-move-zeroes) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivatarak/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
+| [0665-non-decreasing-array](https://github.com/shivatarak/leetcode/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/shivatarak/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/shivatarak/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/shivatarak/leetcode/tree/master/0733-flood-fill) |
