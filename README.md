@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/shivatarak/leetcode/tree/master/0682-baseball-game) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivatarak/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shivatarak/leetcode/tree/master/0763-partition-labels) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shivatarak/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1108-defanging-an-ip-address](https://github.com/shivatarak/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivatarak/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1496-path-crossing](https://github.com/shivatarak/leetcode/tree/master/1496-path-crossing) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shivatarak/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shivatarak/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivatarak/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivatarak/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
