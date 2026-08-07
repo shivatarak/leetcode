@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivatarak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/shivatarak/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivatarak/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3151-special-array-i](https://github.com/shivatarak/leetcode/tree/master/3151-special-array-i) |
 | [3838-weighted-word-mapping](https://github.com/shivatarak/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
