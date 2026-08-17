@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-sum-of-variable-length-subarrays](https://github.com/shivatarak/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivatarak/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3838-weighted-word-mapping](https://github.com/shivatarak/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/shivatarak/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/shivatarak/leetcode/tree/master/0763-partition-labels) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/shivatarak/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivatarak/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/shivatarak/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Sorting
 |  |
 | ------- |
