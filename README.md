@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivatarak/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3151-special-array-i](https://github.com/shivatarak/leetcode/tree/master/3151-special-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/shivatarak/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shivatarak/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivatarak/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3838-weighted-word-mapping](https://github.com/shivatarak/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/shivatarak/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shivatarak/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivatarak/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivatarak/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/shivatarak/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
