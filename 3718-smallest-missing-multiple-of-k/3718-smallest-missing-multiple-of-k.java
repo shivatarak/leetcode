@@ -4,10 +4,10 @@ class Solution {
         for (int num : nums) {
             set.add(num);
         }
-        int multiple = k;
-        while (set.contains(multiple)) {
-            multiple += k;
+        int mul = k;
+        while (set.contains(mul)) {
+            mul += k;
         }
-        return multiple;
+        return mul;
     }
 }
