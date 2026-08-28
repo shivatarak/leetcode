@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shivatarak/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/shivatarak/leetcode/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivatarak/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shivatarak/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivatarak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shivatarak/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shivatarak/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/shivatarak/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/shivatarak/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/shivatarak/leetcode/tree/master/0860-lemonade-change) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shivatarak/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivatarak/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
