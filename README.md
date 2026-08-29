@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/shivatarak/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivatarak/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shivatarak/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/shivatarak/leetcode/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivatarak/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/shivatarak/leetcode/tree/master/1496-path-crossing) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shivatarak/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shivatarak/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/shivatarak/leetcode/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shivatarak/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivatarak/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivatarak/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
