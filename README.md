@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/shivatarak/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/shivatarak/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/shivatarak/leetcode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/shivatarak/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/shivatarak/leetcode/tree/master/0860-lemonade-change) |
 | [0909-snakes-and-ladders](https://github.com/shivatarak/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivatarak/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivatarak/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/shivatarak/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivatarak/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivatarak/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
