@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivatarak/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shivatarak/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivatarak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shivatarak/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shivatarak/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shivatarak/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/shivatarak/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/shivatarak/leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivatarak/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/shivatarak/leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/shivatarak/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/shivatarak/leetcode/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivatarak/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String
