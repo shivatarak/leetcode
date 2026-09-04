@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivatarak/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/shivatarak/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivatarak/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/shivatarak/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/shivatarak/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Stack
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shivatarak/leetcode/tree/master/0724-find-pivot-index) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/shivatarak/leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/shivatarak/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3903-smallest-stable-index-i](https://github.com/shivatarak/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
