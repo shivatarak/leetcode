@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/shivatarak/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/shivatarak/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/shivatarak/leetcode/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/shivatarak/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivatarak/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
 | [0665-non-decreasing-array](https://github.com/shivatarak/leetcode/tree/master/0665-non-decreasing-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shivatarak/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivatarak/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivatarak/leetcode/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/shivatarak/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivatarak/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -392,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shivatarak/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shivatarak/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/shivatarak/leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
