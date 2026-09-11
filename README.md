@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/shivatarak/leetcode/tree/master/3151-special-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/shivatarak/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivatarak/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivatarak/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivatarak/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivatarak/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivatarak/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivatarak/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shivatarak/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shivatarak/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivatarak/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivatarak/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivatarak/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivatarak/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivatarak/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivatarak/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Shortest Path
 |  |
 | ------- |
@@ -404,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/shivatarak/leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/shivatarak/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
