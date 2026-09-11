@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shivatarak/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shivatarak/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivatarak/leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/shivatarak/leetcode/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/shivatarak/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/shivatarak/leetcode/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/shivatarak/leetcode/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/shivatarak/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivatarak/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivatarak/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/shivatarak/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/shivatarak/leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/shivatarak/leetcode/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/shivatarak/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shivatarak/leetcode/tree/master/0547-number-of-provinces) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/shivatarak/leetcode/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/shivatarak/leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -413,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivatarak/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/shivatarak/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
