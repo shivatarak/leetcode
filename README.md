@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shivatarak/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivatarak/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/shivatarak/leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivatarak/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -421,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/shivatarak/leetcode/tree/master/0279-perfect-squares) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shivatarak/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
