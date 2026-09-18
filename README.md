@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/shivatarak/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/shivatarak/leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/shivatarak/leetcode/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/shivatarak/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/shivatarak/leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/shivatarak/leetcode/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0226-invert-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/shivatarak/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shivatarak/leetcode/tree/master/0547-number-of-provinces) |
@@ -436,12 +438,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/shivatarak/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/shivatarak/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
