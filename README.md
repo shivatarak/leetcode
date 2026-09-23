@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shivatarak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shivatarak/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shivatarak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivatarak/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivatarak/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivatarak/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivatarak/leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/shivatarak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivatarak/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivatarak/leetcode/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/shivatarak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
