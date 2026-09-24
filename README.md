@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/shivatarak/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/shivatarak/leetcode/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/shivatarak/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivatarak/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/shivatarak/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/shivatarak/leetcode/tree/master/0743-network-delay-time) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shivatarak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shivatarak/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivatarak/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/shivatarak/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivatarak/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/shivatarak/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/shivatarak/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## DP on Trees
 |  |
@@ -482,4 +485,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/shivatarak/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shivatarak/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/shivatarak/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
