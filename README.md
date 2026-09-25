@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivatarak/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/shivatarak/leetcode/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/shivatarak/leetcode/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/shivatarak/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivatarak/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/shivatarak/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shivatarak/leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/shivatarak/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shivatarak/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shivatarak/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivatarak/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/shivatarak/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
