@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shivatarak/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/shivatarak/leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/shivatarak/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0821-shortest-distance-to-a-character](https://github.com/shivatarak/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/shivatarak/leetcode/tree/master/0860-lemonade-change) |
 | [0909-snakes-and-ladders](https://github.com/shivatarak/leetcode/tree/master/0909-snakes-and-ladders) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivatarak/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shivatarak/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/shivatarak/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/shivatarak/leetcode/tree/master/0763-partition-labels) |
+| [0821-shortest-distance-to-a-character](https://github.com/shivatarak/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivatarak/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/shivatarak/leetcode/tree/master/0984-string-without-aaa-or-bbb) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/shivatarak/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivatarak/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0680-valid-palindrome-ii](https://github.com/shivatarak/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/shivatarak/leetcode/tree/master/0763-partition-labels) |
+| [0821-shortest-distance-to-a-character](https://github.com/shivatarak/leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/shivatarak/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/shivatarak/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/shivatarak/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
