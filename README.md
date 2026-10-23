@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/shivatarak/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivatarak/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/shivatarak/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3866-first-unique-even-element](https://github.com/shivatarak/leetcode/tree/master/3866-first-unique-even-element) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/shivatarak/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/shivatarak/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/shivatarak/leetcode/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/shivatarak/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shivatarak/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivatarak/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3866-first-unique-even-element](https://github.com/shivatarak/leetcode/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivatarak/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1657-determine-if-two-strings-are-close](https://github.com/shivatarak/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shivatarak/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3866-first-unique-even-element](https://github.com/shivatarak/leetcode/tree/master/3866-first-unique-even-element) |
 ## Geometry
 |  |
 | ------- |
