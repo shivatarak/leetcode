@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/shivatarak/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/shivatarak/leetcode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/shivatarak/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivatarak/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivatarak/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0542-01-matrix](https://github.com/shivatarak/leetcode/tree/master/0542-01-matrix) |
 | [0665-non-decreasing-array](https://github.com/shivatarak/leetcode/tree/master/0665-non-decreasing-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shivatarak/leetcode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/shivatarak/leetcode/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/shivatarak/leetcode/tree/master/0365-water-and-jug-problem) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivatarak/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/shivatarak/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shivatarak/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shivatarak/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shivatarak/leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/shivatarak/leetcode/tree/master/0274-h-index) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivatarak/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/shivatarak/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0973-k-closest-points-to-origin](https://github.com/shivatarak/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivatarak/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
